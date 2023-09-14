@@ -46,7 +46,7 @@
       "name": "punctuation.separator.parameters.python",
       "scope": "punctuation.separator.period.python,punctuation.separator.element.python,punctuation.parenthesis.begin.python,punctuation.parenthesis.end.python",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -60,7 +60,7 @@
       "name": "storage.modifier.lifetime.rust",
       "scope": "storage.modifier.lifetime.rust",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -116,7 +116,7 @@
       "name": "Text",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -165,14 +165,14 @@
       "name": "c++ block",
       "scope": "punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp,punctuation.terminator.statement.c,punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c,punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
       "name": "js/ts punctuation separator key-value",
       "scope": "punctuation.separator.key-value",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -224,7 +224,7 @@
       "name": "java modifier.import",
       "scope": "punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,meta.method.identifier.java,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.terminator.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,meta.method-call.java,punctuation.section.class.begin.bracket.curly.java,punctuation.section.class.end.bracket.curly.java,punctuation.section.method.begin.bracket.curly.java,punctuation.section.method.end.bracket.curly.java,punctuation.separator.period.java,punctuation.bracket.angle.java,punctuation.definition.annotation.java,meta.method.body.java",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -301,7 +301,7 @@
       "name": "css comma",
       "scope": "punctuation.separator.list.comma.css",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -384,7 +384,7 @@
       "name": "keyword.operator.misc.rust",
       "scope": "keyword.operator.misc.rust",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -433,7 +433,7 @@
       "name": "Punctuation",
       "scope": "punctuation.separator.delimiter",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -489,7 +489,7 @@
       "name": "python block",
       "scope": "punctuation.definition.arguments.begin.python,punctuation.definition.arguments.end.python,punctuation.separator.arguments.python,punctuation.definition.list.begin.python,punctuation.definition.list.end.python",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -510,7 +510,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -552,7 +552,7 @@
       "name": "Variables",
       "scope": "variable.c",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -566,7 +566,7 @@
       "name": "Java Variables",
       "scope": "token.variable.parameter.java",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -587,7 +587,7 @@
       "name": "Packages",
       "scope": "token.package",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -708,14 +708,14 @@
       "name": "Support type",
       "scope": "support.type.property-name",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
       "name": "Support type",
       "scope": "support.constant.property-value",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -729,7 +729,7 @@
       "name": "Meta tag",
       "scope": "meta.tag",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -885,7 +885,7 @@
       "name": "[VSCODE-CUSTOM] Markdown heading setext",
       "scope": "markup.heading.setext",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -994,7 +994,7 @@
       "name": "illegal",
       "scope": "invalid.illegal.bad-ampersand.html",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -1099,14 +1099,14 @@
       "name": "style double quoted array index normal begin",
       "scope": "punctuation.section.array.begin.php",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
       "name": "style double quoted array index normal end",
       "scope": "punctuation.section.array.end.php",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -1134,7 +1134,7 @@
       "name": "php function-resets",
       "scope": "punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.begin.bracket.curly.php,punctuation.definition.end.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -1204,21 +1204,21 @@
       "name": "parameter function js/ts",
       "scope": "function.parameter",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
       "name": "brace function",
       "scope": "function.brace",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
       "name": "parameter function ruby cs",
       "scope": "function.parameter.ruby, function.parameter.cs",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -1267,7 +1267,7 @@
       "name": "block scope",
       "scope": "block.scope.end,block.scope.begin",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -1323,7 +1323,7 @@
       "name": "Reset JavaScript string interpolation expression",
       "scope": ["meta.template.expression"],
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -1609,7 +1609,7 @@
       "name": "heading 6, number",
       "scope": ["invalid.xi"],
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -1687,7 +1687,7 @@
       "name": "meta.brace.square",
       "scope": [" meta.brace.square"],
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -1709,7 +1709,7 @@
       "name": "punctuation.definition.block.sequence.item.yaml",
       "scope": "punctuation.definition.block.sequence.item.yaml",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#cbcbcb"
       }
     },
     {
@@ -1758,7 +1758,7 @@
     "activityBarBadge.foreground": "#ffffff",
     "activityBarBadge.background": "#206cc2",
     "sideBar.background": "#080d1b",
-    "sideBar.foreground": "#879fcf",
+    "sideBar.foreground": "#586173",
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.foreground": "#7283ad",
     "sideBarSectionHeader.border": "#cccccc33",
@@ -1778,7 +1778,7 @@
     "listFilterWidget.outline": "#00000000",
     "listFilterWidget.noMatchesOutline": "#cf1300",
     "statusBar.foreground": "#6083ab",
-    "statusBar.background": "#081230",
+    "statusBar.background": "#0a1224",
     "statusBarItem.hoverBackground": "#ffffff1f",
     "statusBar.debuggingBackground": "#e86d00",
     "statusBar.debuggingForeground": "#ffffff",
@@ -1815,7 +1815,7 @@
     "input.placeholderForeground": "#a6a6a6",
     "textLink.foreground": "#3794ff",
     "editor.background": "#040915",
-    "editor.foreground": "#eeeeee",
+    "editor.foreground": "#cbcbcb",
     "editorLineNumber.foreground": "#3c4a75",
     "editorCursor.foreground": "#4c639b",
     "editorCursor.background": "#000000",
@@ -1847,7 +1847,7 @@
     "editor.foldBackground": "#264f784d",
     "editorOverviewRuler.background": "#25252500",
     "editorOverviewRuler.border": "#7f7f7f4d",
-    "editorError.foreground": "#c73518",
+    "editorError.foreground": "#ec6b51",
     "editorError.background": "#B73A3400",
     "editorError.border": "#ffffff00",
     "editorWarning.foreground": "#f2c809",
@@ -1938,8 +1938,8 @@
     "gitDecoration.submoduleResourceForeground": "#8db9e2",
     "gitDecoration.untrackedResourceForeground": "#73c991",
     "editorMarkerNavigation.background": "#0f172a",
-    "editorMarkerNavigationError.background": "#f48771",
-    "editorMarkerNavigationWarning.background": "#cca700",
+    "editorMarkerNavigationError.background": "#e45032",
+    "editorMarkerNavigationWarning.background": "#ffba16",
     "editorMarkerNavigationInfo.background": "#75beff",
     "merge.currentHeaderBackground": "#474780",
     "merge.currentContentBackground": "#31314b",
@@ -1981,7 +1981,7 @@
     "minimapGutter.deletedBackground": "#94151b",
     "minimap.findMatchHighlight": "#0377fc",
     "minimap.selectionHighlight": "#264f78",
-    "minimap.errorHighlight": "#c73518",
+    "minimap.errorHighlight": "#ec6b51",
     "minimap.warningHighlight": "#f2c809",
     "minimap.background": "#040915",
     "sideBar.dropBackground": "#00326b",
