@@ -1,0 +1,21 @@
+{
+  "name": "robianchini-theme",
+  "displayName": "robianchini-theme",
+  "description": "Robianchini Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Robianchini Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Robianchini Theme-color-theme.json"
+      }
+    ]
+  }
+}
