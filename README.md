@@ -10,5 +10,5 @@
 </p>
 
 <p align="center" style="display: flex">
-![](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/aZ4KyJ76xUcqaP2H1qloC2VejrJ2/yd0JSJF3-commandPalette.jpeg)
+<img src="https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/aZ4KyJ76xUcqaP2H1qloC2VejrJ2/yd0JSJF3-commandPalette.jpeg" alt="Rating"/>
 </p>
