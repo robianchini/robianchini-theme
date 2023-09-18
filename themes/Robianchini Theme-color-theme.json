@@ -278,7 +278,7 @@
     {
       "scope": ["constant", "variable.other.constant"],
       "settings": {
-        "foreground": "#9580FF"
+        "foreground": "#F8F8F2"
       }
     },
     {
@@ -388,7 +388,7 @@
         "variable.other.predefined"
       ],
       "settings": {
-        "foreground": "#9580FF",
+        "foreground": "#F8F8F2",
         "fontStyle": "regular"
       }
     },
