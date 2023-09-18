@@ -6,9 +6,9 @@
     "enumMember": {
       "foreground": "#ff80bf"
     },
-    // "variable.constant": {
-    //   "foreground": "#9580ff"
-    // },
+    "variable.constant": {
+      "foreground": "#f8f8f2"
+    },
     "variable.defaultLibrary": {
       "foreground": "#f8f8f2"
     }
